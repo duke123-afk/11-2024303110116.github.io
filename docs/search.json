@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到我的个人主页",
+    "section": "",
+    "text": "你好！我是郭小莉，斯坦福大学计算机科学博士。\n\n\n欢迎了解我的学术背景、研究成果和联系方式。\n\n\n\n\n\n个人简介\n教育经历\n曾获荣誉\n联系方式"
+  },
+  {
+    "objectID": "index.html#快速导航",
+    "href": "index.html#快速导航",
+    "title": "欢迎来到我的个人主页",
+    "section": "",
+    "text": "个人简介\n教育经历\n曾获荣誉\n联系方式"
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "教育经历",
+    "section": "",
+    "text": "计算机科学博士 | 2020-2025\n\n研究方向：机器学习与计算机视觉\n核心课程：\n\n深度学习\n计算机视觉前沿\n强化学习\n概率图模型\n\n博士论文：基于小样本学习的医疗影像分析\n\n\n\n\n计算机科学与技术学士 | 2016-2020\n\n专业排名：前5%\n核心课程：\n\n数据结构与算法\n操作系统\n计算机网络\n人工智能导论\n\n本科毕业论文：基于深度学习的图像分类算法优化"
+  },
+  {
+    "objectID": "education.html#斯坦福大学",
+    "href": "education.html#斯坦福大学",
+    "title": "教育经历",
+    "section": "",
+    "text": "计算机科学博士 | 2020-2025\n\n研究方向：机器学习与计算机视觉\n核心课程：\n\n深度学习\n计算机视觉前沿\n强化学习\n概率图模型\n\n博士论文：基于小样本学习的医疗影像分析"
+  },
+  {
+    "objectID": "education.html#清华大学",
+    "href": "education.html#清华大学",
+    "title": "教育经历",
+    "section": "",
+    "text": "计算机科学与技术学士 | 2016-2020\n\n专业排名：前5%\n核心课程：\n\n数据结构与算法\n操作系统\n计算机网络\n人工智能导论\n\n本科毕业论文：基于深度学习的图像分类算法优化"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "个人简介",
+    "section": "",
+    "text": "斯坦福大学计算机科学博士（2020-2025）\n研究方向：机器学习与计算机视觉\n导师：Andrew Ng教授\n\n\n\n\n\n深度学习模型优化\n计算机视觉中的迁移学习\n医疗影像分析\n自动驾驶中的视觉感知\n\n\n\n\n\n基于深度学习的医学影像诊断系统\n自动驾驶场景理解算法\n小样本学习在医疗领域的应用"
+  },
+  {
+    "objectID": "about.html#学术背景",
+    "href": "about.html#学术背景",
+    "title": "个人简介",
+    "section": "",
+    "text": "斯坦福大学计算机科学博士（2020-2025）\n研究方向：机器学习与计算机视觉\n导师：Andrew Ng教授"
+  },
+  {
+    "objectID": "about.html#研究兴趣",
+    "href": "about.html#研究兴趣",
+    "title": "个人简介",
+    "section": "",
+    "text": "深度学习模型优化\n计算机视觉中的迁移学习\n医疗影像分析\n自动驾驶中的视觉感知"
+  },
+  {
+    "objectID": "about.html#近期项目",
+    "href": "about.html#近期项目",
+    "title": "个人简介",
+    "section": "",
+    "text": "基于深度学习的医学影像诊断系统\n自动驾驶场景理解算法\n小样本学习在医疗领域的应用"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "联系方式",
+    "section": "",
+    "text": "邮箱: amy.chen@stanford.edu\n电话: +1 (650) 123-4567\n地址: Stanford University 353 Serra Mall Stanford, CA 94305\n\n\n\n\n\nGoogle Scholar\nLinkedIn\nGitHub\n\n\n\n\n\n周一至周五：9:00 - 17:00 (PST)\n预约请提前邮件联系"
+  },
+  {
+    "objectID": "contact.html#专业联系",
+    "href": "contact.html#专业联系",
+    "title": "联系方式",
+    "section": "",
+    "text": "邮箱: amy.chen@stanford.edu\n电话: +1 (650) 123-4567\n地址: Stanford University 353 Serra Mall Stanford, CA 94305"
+  },
+  {
+    "objectID": "contact.html#社交媒体",
+    "href": "contact.html#社交媒体",
+    "title": "联系方式",
+    "section": "",
+    "text": "Google Scholar\nLinkedIn\nGitHub"
+  },
+  {
+    "objectID": "contact.html#办公时间",
+    "href": "contact.html#办公时间",
+    "title": "联系方式",
+    "section": "",
+    "text": "周一至周五：9:00 - 17:00 (PST)\n预约请提前邮件联系"
+  },
+  {
+    "objectID": "honors.html",
+    "href": "honors.html",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "2024年 CVPR最佳学生论文奖\n2023年 斯坦福大学优秀研究生奖学金\n2022年 NeurIPS杰出审稿人\n2021年 AAAI学生旅行奖\n\n\n\n\n\n在CVPR、NeurIPS、ICML等顶级会议发表论文15篇\nGoogle Scholar引用次数：1200+\n2项美国专利（申请中）\n\n\n\n\n\nCVPR 2024领域主席\nIEEE学生会员\n斯坦福大学AI俱乐部顾问"
+  },
+  {
+    "objectID": "honors.html#学术奖项",
+    "href": "honors.html#学术奖项",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "2024年 CVPR最佳学生论文奖\n2023年 斯坦福大学优秀研究生奖学金\n2022年 NeurIPS杰出审稿人\n2021年 AAAI学生旅行奖"
+  },
+  {
+    "objectID": "honors.html#科研成就",
+    "href": "honors.html#科研成就",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "在CVPR、NeurIPS、ICML等顶级会议发表论文15篇\nGoogle Scholar引用次数：1200+\n2项美国专利（申请中）"
+  },
+  {
+    "objectID": "honors.html#社会服务",
+    "href": "honors.html#社会服务",
+    "title": "曾获荣誉",
+    "section": "",
+    "text": "CVPR 2024领域主席\nIEEE学生会员\n斯坦福大学AI俱乐部顾问"
+  }
+]
